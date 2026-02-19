@@ -22,6 +22,19 @@
 
 ---
 
+## 👨‍💻 关于作者
+
+**Jason哥** - AI 技术布道者
+
+- 🎬 抖音：**【大湾区Jason哥】**
+- 💻 专注 AI 工具分享和实战应用
+- 🎯 帮助普通人快速掌握 AI 技术
+- 📚 持续输出 AI 知识和实战经验
+
+**关注我的抖音，获取更多 AI 干货！**
+
+---
+
 ## 📂 知识库导航
 
 ### 一、🚀 新手入门
@@ -243,6 +256,7 @@ ai-knowledge-hub/
 
 ## 📮 联系方式
 
+- 🎬 **抖音**：大湾区Jason哥（关注我，获取更多 AI 干货）
 - 💬 问题反馈：[GitHub Issues](https://github.com/YOUR_USERNAME/ai-knowledge-hub/issues)
 - 📧 邮箱：your-email@example.com
 
