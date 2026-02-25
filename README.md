@@ -250,15 +250,15 @@ ai-knowledge-hub/
 
 如果这个项目对你有帮助，请给一个 **Star** ⭐️ 支持一下！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/ai-knowledge-hub&type=Date)](https://star-history.com/#YOUR_USERNAME/ai-knowledge-hub&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=gzchen008/ai-user-guide&type=Date)](https://star-history.com/#gzchen008/ai-user-guide&Date)
 
 ---
 
 ## 📮 联系方式
 
 - 🎬 **抖音**：大湾区Jason哥（关注我，获取更多 AI 干货）
-- 💬 问题反馈：[GitHub Issues](https://github.com/YOUR_USERNAME/ai-knowledge-hub/issues)
-- 📧 邮箱：your-email@example.com
+- 💬 问题反馈：[GitHub Issues](https://github.com/gzchen008/ai-user-guide/issues)
+- 📧 邮箱：gzchen008@gmail.com
 
 ---
 
