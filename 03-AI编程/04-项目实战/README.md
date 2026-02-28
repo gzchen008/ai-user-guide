@@ -35,11 +35,11 @@
 
 ### 高级项目
 
-| 项目 | 难度 | 工具 | 学习重点 |
-|------|------|------|----------|
-| [Chrome 扩展开发](./07-Chrome扩展.md) | ⭐⭐⭐⭐ | Cursor | 浏览器扩展 |
-| [Web 应用部署](./08-Web部署.md) | ⭐⭐⭐⭐ | Claude Code | 部署上线 |
-| [AI Agent 开发](./09-AI-Agent.md) | ⭐⭐⭐⭐⭐ | Cursor + Claude Code | Agent 架构 |
+| 项目 | 难度 | 工具 | 学习重点 | 状态 |
+|------|------|------|----------|------|
+| [Chrome 扩展开发](./07-Chrome扩展.md) | ⭐⭐⭐⭐ | Cursor | 浏览器扩展 | ✅ 已完成 |
+| [Web 应用部署](./08-Web部署.md) | ⭐⭐⭐⭐ | Claude Code | 部署上线 | ✅ 已完成 |
+| [AI Agent 开发](./09-AI-Agent.md) | ⭐⭐⭐⭐⭐ | Cursor + Claude Code | Agent 架构 | ✅ 已完成 |
 
 ---
 
