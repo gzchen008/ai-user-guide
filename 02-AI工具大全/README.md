@@ -16,6 +16,7 @@
 | [DeepSeek](./01-对话AI/DeepSeek.md) | 免费、国产之光 | ⭐⭐⭐⭐⭐ |
 | [Gemini](./01-对话AI/Gemini.md) | Google出品、多模态 | ⭐⭐⭐⭐ |
 | [Kimi](./01-对话AI/Kimi.md) | 长文本、中文好 | ⭐⭐⭐⭐ |
+| [Grok](./01-对话AI/Grok.md) | 幽默风格、实时信息 | ⭐⭐⭐⭐ |
 
 ---
 
@@ -59,7 +60,8 @@
 **代表工具：**
 | 工具 | 特点 | 推荐指数 |
 |------|------|----------|
-| [GitHub Copilot](./05-编程工具/GitHub-Copilot.md) | 最强编程AI | ⭐⭐⭐⭐⭐ |
+| [Cursor](./05-编程工具/Cursor.md) | AI编程终极武器 | ⭐⭐⭐⭐⭐ |
+| [GitHub Copilot](./05-编程工具/GitHub-Copilot.md) | VS Code插件、经典 | ⭐⭐⭐⭐⭐ |
 
 ---
 
