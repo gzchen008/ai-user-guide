@@ -14,6 +14,8 @@
 | [ChatGPT](./01-对话AI/ChatGPT.md) | 最强大、功能最多 | ⭐⭐⭐⭐⭐ |
 | [Claude](./01-对话AI/Claude.md) | 长文本、代码强 | ⭐⭐⭐⭐⭐ |
 | [DeepSeek](./01-对话AI/DeepSeek.md) | 免费、国产之光 | ⭐⭐⭐⭐⭐ |
+| [MiniMax](./01-对话AI/MiniMax.md) | M2.5媲美Opus、性价比高 | ⭐⭐⭐⭐⭐ |
+| [GLM](./01-对话AI/GLM.md) | 多模态、视频理解 | ⭐⭐⭐⭐⭐ |
 | [Gemini](./01-对话AI/Gemini.md) | Google出品、多模态 | ⭐⭐⭐⭐ |
 | [Kimi](./01-对话AI/Kimi.md) | 长文本、中文好 | ⭐⭐⭐⭐ |
 | [Grok](./01-对话AI/Grok.md) | 幽默风格、实时信息 | ⭐⭐⭐⭐ |
