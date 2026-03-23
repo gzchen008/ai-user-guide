@@ -301,4 +301,208 @@ Ideogram的优势是文字，不是艺术：
 
 ---
 
-**💡 小贴士：** 如果你需要生成带文字的图片（Logo、海报、配图），Ideogram是目前最好的选择！
+## 🎨 实战案例
+
+### 案例1：品牌Logo设计
+
+```
+需求：为一家咖啡店设计Logo
+
+提示词：
+"A minimalist logo for 'MORNING BREW' coffee shop,
+featuring a stylized coffee cup icon,
+warm brown and cream colors,
+clean modern typography,
+professional branding style"
+
+技巧：
+- 明确品牌名称
+- 指定行业元素（咖啡杯）
+- 确定配色方案
+- 描述风格定位
+```
+
+---
+
+### 案例2：社交媒体配图
+
+```
+需求：为小红书文章制作封面
+
+提示词：
+"A vertical social media post image saying
+'5个AI工具推荐' in bold Chinese characters,
+colorful gradient background,
+modern tech aesthetic,
+eye-catching design for Xiaohongshu"
+
+技巧：
+- 指定尺寸方向（vertical）
+- 使用中文内容
+- 符合平台调性
+- 吸引眼球的配色
+```
+
+---
+
+### 案例3：电商促销海报
+
+```
+需求：双十一促销海报
+
+提示词：
+"A promotional poster for 'Double 11 Sale',
+large text '限时5折' and '双十一',
+red and gold festive colors,
+shopping elements like gift boxes,
+urgent exciting mood"
+
+技巧：
+- 突出促销信息
+- 使用节日色彩
+- 营造紧迫感
+- 符合电商风格
+```
+
+---
+
+### 案例4：节日祝福图
+
+```
+需求：新年祝福图片
+
+提示词：
+"A New Year greeting card with '新年快乐 2025',
+elegant gold and red color scheme,
+traditional Chinese elements like lanterns,
+festive celebratory atmosphere,
+high quality design"
+
+技巧：
+- 明确节日主题
+- 融入文化元素
+- 使用吉祥配色
+- 保持高端质感
+```
+
+---
+
+### 案例5：App启动页设计
+
+```
+需求：App启动引导页
+
+提示词：
+"A mobile app splash screen saying 'Welcome to FitLife',
+clean minimalist design,
+gradient blue to purple background,
+fitness-related icons,
+modern app aesthetic"
+
+技巧：
+- 指定移动端尺寸
+- 简洁不杂乱
+- 品牌色调一致
+- 专业App风格
+```
+
+---
+
+## 🔧 高级技巧
+
+### 技巧1：精确控制文字
+
+```
+使用引号明确文字内容：
+
+提示词：
+"A poster with the text "限时优惠"
+written in bold red Chinese characters"
+
+比模糊描述效果好很多
+```
+
+---
+
+### 技巧2：指定字体风格
+
+```
+不同场景用不同字体：
+
+优雅风格：
+"in elegant serif font"
+
+现代科技：
+"in modern sans-serif font"
+
+活泼可爱：
+"in playful rounded font"
+
+高端奢华：
+"in sophisticated script font"
+```
+
+---
+
+### 技巧3：控制排版布局
+
+```
+指定文字位置和大小：
+
+"A poster with large 'SALE' text centered,
+smaller subtitle 'up to 50% off' below,
+product image at bottom"
+
+这样AI会按你说的布局生成
+```
+
+---
+
+### 技巧4：参考风格融合
+
+```
+借鉴知名设计风格：
+
+"A poster in Apple's minimalist style,
+featuring the text 'Think Different'"
+
+"A vintage movie poster style with
+'COMING SOON' in classic Hollywood font"
+```
+
+---
+
+## 📱 不同平台尺寸建议
+
+| 平台 | 尨荐尺寸 | 方向 |
+|------|----------|------|
+| 小红书封面 | 3:4 | 竖版 |
+| 微信公众号 | 2.35:1 | 横版 |
+| 抖音封面 | 9:16 | 竖版 |
+| Instagram | 1:1 | 方形 |
+| 微博配图 | 16:9 | 横版 |
+
+---
+
+## ⚠️ 版权注意事项
+
+**Ideogram生成的图片：**
+
+✅ 免费版：
+- 个人使用OK
+- 社交媒体分享OK
+- 不可商用
+
+✅ 付费版：
+- 可商业使用
+- 需要Pro版以上
+- 建议保留购买记录
+
+**建议：**
+- 商用前确认当前订阅等级
+- 保留生成记录作为版权证明
+- 重要项目建议付费版
+
+---
+
+**💡 小贴士：** 如果你需要生成带文字的图片（Logo、海报、配图），Ideogram是目前最好的选择！掌握这些技巧，设计效率提升10倍！
