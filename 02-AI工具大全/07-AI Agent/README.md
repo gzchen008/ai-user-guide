@@ -43,7 +43,7 @@ AI Agent：
 
 ## 📋 工具列表
 
-### [Manus](./Manus.md)
+### [Manus](./Manus.md) — 通用 AI Agent
 
 **🔥 爆火指数：** ⭐⭐⭐⭐⭐
 **开发商：** Manus AI
@@ -66,6 +66,50 @@ AI Agent：
 - Team：$99/月
 
 **推荐指数：** ⭐⭐⭐⭐⭐
+
+---
+
+### [OpenAI Operator](./OpenAI-Operator.md) — 网页操作 Agent
+
+**🔥 热度：** ⭐⭐⭐⭐
+**开发商：** OpenAI
+**发布时间：** 2025年1月
+**特点：**
+- ChatGPT 生态集成
+- 自主操作网页（购物、预订、填表）
+- CUA（Computer-Using Agent）模型
+- 支付等敏感操作自动暂停
+
+**适合人群：**
+- ChatGPT Pro 用户
+- 网购/预订需求多的人
+- 海外用户优先
+
+**价格：** 含在 ChatGPT Pro（$200/月）
+
+**推荐指数：** ⭐⭐⭐⭐
+
+---
+
+### [Claude Computer Use](./Claude-Computer-Use.md) — 桌面级 AI Agent
+
+**🔥 热度：** ⭐⭐⭐⭐
+**开发商：** Anthropic
+**发布时间：** 2024年10月（Beta）
+**特点：**
+- 能操控整台电脑（不只是浏览器）
+- 屏幕理解 + 鼠标键盘操作
+- 多应用协作
+- API 可用
+
+**适合人群：**
+- 开发者/技术用户
+- 需要跨应用自动化的用户
+- 自动化测试
+
+**价格：** Claude Pro $20/月起 / API 按 token
+
+**推荐指数：** ⭐⭐⭐⭐（技术用户⭐⭐⭐⭐⭐）
 
 ---
 
@@ -223,11 +267,13 @@ AI Agent 会：
 
 ## 📊 工具对比表
 
-| 工具 | 类型 | 特点 | 价格 | 推荐指数 |
-|------|------|------|------|----------|
-| Manus | 通用 Agent | 爆款、功能强 | $29/月 | ⭐⭐⭐⭐⭐ |
+| 工具 | 类型 | 操作范围 | 价格 | 推荐指数 |
+|------|------|---------|------|----------|
+| Manus | 通用 Agent | 网页为主 | $29/月起 | ⭐⭐⭐⭐⭐ |
+| OpenAI Operator | 网页 Agent | 网页操作 | ChatGPT Pro $200/月 | ⭐⭐⭐⭐ |
+| Claude Computer Use | 桌面 Agent | 整台电脑 | Claude Pro $20/月起 | ⭐⭐⭐⭐ |
 
-*（持续更新中...）*
+> 💡 **选择建议：** 中文用户/新手 → Manus | 开发者 → Claude Computer Use | 海外 ChatGPT 用户 → Operator
 
 ---
 
